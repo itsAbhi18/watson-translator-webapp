@@ -1,0 +1,5 @@
+---
+applications:
+ - name: watson_translator
+   random-random: true
+   memory: 64M
